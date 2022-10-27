@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3f59f09.css",
+    "main.js": "/static/js/main.d9e0ae80.js",
+    "static/js/787.dc5dba0f.chunk.js": "/static/js/787.dc5dba0f.chunk.js",
+    "static/media/rf--logo.png": "/static/media/rf--logo.70d6256e415ac0cafe77.png",
+    "index.html": "/index.html",
+    "main.d3f59f09.css.map": "/static/css/main.d3f59f09.css.map",
+    "main.d9e0ae80.js.map": "/static/js/main.d9e0ae80.js.map",
+    "787.dc5dba0f.chunk.js.map": "/static/js/787.dc5dba0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f59f09.css",
+    "static/js/main.d9e0ae80.js"
+  ]
+}
